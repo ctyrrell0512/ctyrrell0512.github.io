@@ -1,9 +1,12 @@
 body {
-  font-family: Optima, sans-serif;
+  background-color: #FFFAFA;
+  font-family: Helvetica Narrow, sans-serif;
+  font-weight: 100
 }
 
 h1 {
   font-size: 250%
+    background-color: #F5F5F5;
 }
 
 h2 {
@@ -17,7 +20,7 @@ color: #6C1890;
 }
 
 h4 {
-	color: 800000
-	center
+	color: #800000;
+	
 }
 
